@@ -36,7 +36,7 @@ Este projeto é uma **interface clone do Spotify** desenvolvida para fins de est
 
 ```bash
 # Clone o repositório
-git clone https://github.com/babramos/ProjetoSpotify.git
+git clone https://github.com/babramos/Projeto-Spotify.git
 
 # Acesse a pasta do projeto
 cd nome-do-projeto
